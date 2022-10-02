@@ -1,2 +1,2 @@
 # 22-Hacktoberfest
-Only web front end Projects allowes
+Only web front end Projects allowed
